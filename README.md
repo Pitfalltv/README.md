@@ -24,10 +24,9 @@ Frameworks, Platforms and Libraries**
 
 ----
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RamonMdrs&label=Profile%20views&color=0e75b6&style=flat" alt="Perfil Ramon" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pitfalltv&label=Profile%20views&color=0e75b6&style=flat" alt="Perfil Pitfall" /> </p>
  
  ---
  <p align="center"> "Você não pode fazer o trabalho de <b>hoje</b> com os metodos de <b>ontem</b> se pretende estar no mercado <b>amanhã</b> "
   <cite>-Jack Welck</cite></p>
 
-Conversar em @Ramon
