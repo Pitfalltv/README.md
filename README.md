@@ -2,7 +2,7 @@
 
 <h3 align="left">     A passionate developer in training from Brazil</h3>
 
-<img aling="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=Pitfalltv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E/>
+<img aling="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=Pitfalltv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 -  I’m currently working on Upload and Improve my projects.
 
